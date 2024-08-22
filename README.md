@@ -11,6 +11,8 @@ E-commerce platform
 To automate the search functionality on the eBay website by locating the search input field, entering a search term (e.g., "camera"), clicking the search button, and verifying that the results page updates with relevant items.
 
 # Tech Stack used in this Project
+![image](https://github.com/user-attachments/assets/e8956e89-e9c1-4ba2-9d63-720a184acc5d)
+
 ![image](https://github.com/user-attachments/assets/2c57634f-54ca-4f0e-8406-77c3eb6dacb0)
 ![image](https://github.com/user-attachments/assets/2824eee6-f961-48eb-ac6a-5d68b2dc3995)
 
@@ -25,6 +27,9 @@ Operating System and browsers used:
 ![image](https://github.com/user-attachments/assets/4e7823d3-441a-4049-baab-fe1f3466eb55)
 
 ![image](https://github.com/user-attachments/assets/d5755584-7854-4046-8269-41aeead97dde)
+
+
+
 
 # Directory Structure
 Chezuba_Task-src/test/java/ ├─ QA_Automation_Testing_Task/ ├─ search_functionality/ 
